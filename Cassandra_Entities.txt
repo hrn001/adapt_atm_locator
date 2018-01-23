@@ -1,0 +1,126 @@
+Entity 1
+{
+  "uuid": "192d3050-c6b9-11e6-a734-122e0737977d",
+  "type": "atm",
+  "name": "AIB ATM Grafton Street3",
+  "created": 1482240897502,
+  "modified": 1482240897502,
+  "Address": "100/101 Grafton Street, AIB Bank External Wall, Dublin 2, Dublin, D02 HX31, Ireland",
+  "atmname": "AIB ATM Grafton Street",
+  "location": {
+    "latitude": 53.3429639,
+    "longitude": -6.2596384
+  },
+  "metadata": {
+    "path": "/atms/192d3050-c6b9-11e6-a734-122e0737977d",
+    "size": 1022
+  },
+  "PhotoURL": "https://www.google.co.in/maps/uv?hl=en&pb=!1s0x48670e9b75f9b3cd:0x3172e98931fd6bab!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s//geo2.ggpht.com/cbk?panoid%3DuCleQvOHWl2wiyUMs0R_Sw%26output%3Dthumbnail%26cb_client%3Dsearch.LOCAL_UNIVERSAL.gps%26thumb%3D2%26w%3D520%26h%3D175%26yaw%3D279.0837%26pitch%3D0%26thumbfov%3D100!5s+-+Google+Search&imagekey=!1e2!2suCleQvOHWl2wiyUMs0R_Sw",
+  "Telephone": "+353 818 724 724"
+}
+
+Entity 2
+{
+  "uuid": "195fe368-c6ba-11e6-861b-0ad881f403bf",
+  "type": "atm",
+  "name": "AIB ATM Morehampton Road",
+  "created": 1482241327331,
+  "modified": 1482241327331,
+  "Address": "69-71 Morehampton Road, Dublin 4, Dublin, D04 K2W8, Ireland",
+  "atmname": "AIB ATM Morehampton Road",
+  "location": {
+    "latitude": 53.324653,
+    "longitude": -6.240897
+  },
+  "metadata": {
+    "path": "/atms/195fe368-c6ba-11e6-861b-0ad881f403bf",
+    "size": 1000
+  },
+  "PhotoURL": "https://www.google.co.in/maps/uv?hl=en&pb=!1s0x48670eb75e4de4c7:0x60a8db8a5a0cddd6!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s//geo1.ggpht.com/cbk?panoid%3DABCd-ZhUaobZhkC93XLipA%26output%3Dthumbnail%26cb_client%3Dsearch.LOCAL_UNIVERSAL.gps%26thumb%3D2%26w%3D520%26h%3D175%26yaw%3D129.91656%26pitch%3D0%26thumbfov%3D100!5s+-+Google+Search&imagekey=!1e2!2sABCd-ZhUaobZhkC93XLipA",
+  "Telephone": "+353 818 724 724"
+}
+
+Entity 3
+{
+  "uuid": "6d59ff41-c6ba-11e6-a734-122e0737977d",
+  "type": "atm",
+  "name": "AIB ATM Sandymount Road",
+  "created": 1482241468221,
+  "modified": 1482241468221,
+  "Address": "96-98 Sandymount Road, Sandymount, Dublin 4, Dublin, D04 RW29, Ireland",
+  "atmname": "AIB ATM Sandymount Road",
+  "location": {
+    "latitude": 53.332668,
+    "longitude": -6.21544
+  },
+  "metadata": {
+    "path": "/atms/6d59ff41-c6ba-11e6-a734-122e0737977d",
+    "size": 977
+  },
+  "PhotoURL": "https://www.google.co.in/maps/uv?hl=en&pb=!1s0x48670edea343f7b5:0x7e7e87c54a0c06c9!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s//geo1.ggpht.com/cbk?panoid%3DCV-8NPN5RBNrWL6WY2Bquw%26output%3Dthumbnail%26cb_client%3Dsearch.LOCAL_UNIVERSAL.gps%26thumb%3D2%26w%3D520%26h%3D175%26yaw%3D276.53842%26pitch%3D0%26thumbfov%3D100!5s+-+Google+Search&imagekey=!1e2!2sCV-8NPN5RBNrWL6WY2Bquw"
+}
+
+Entity 4
+
+{
+  "uuid": "d5d0b49d-c6ba-11e6-861b-0ad881f403bf",
+  "type": "atm",
+  "name": "AIB ATM Clonskeagh Road",
+  "created": 1482241643482,
+  "modified": 1482241643482,
+  "Address": "Clonskeagh Rd, Farranboley, Dublin 14, Dublin, Ireland",
+  "atmname": "AIB ATM Clonskeagh Road",
+  "location": {
+    "latitude": 53.307414,
+    "longitude": -6.236904
+  },
+  "metadata": {
+    "path": "/atms/d5d0b49d-c6ba-11e6-861b-0ad881f403bf",
+    "size": 992
+  },
+  "PhotoURL": "https://www.google.co.in/maps/uv?hl=en&pb=!1s0x486709496843158d:0x15d2910a84b2695c!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s//geo1.ggpht.com/cbk?panoid%3DveW9gYE7NmTsPLmfpFzE1Q%26output%3Dthumbnail%26cb_client%3Dsearch.LOCAL_UNIVERSAL.gps%26thumb%3D2%26w%3D520%26h%3D175%26yaw%3D67.63956%26pitch%3D0%26thumbfov%3D100!5s+-+Google+Search&imagekey=!1e2!2sveW9gYE7NmTsPLmfpFzE1Q",
+  "Telephone": "+353 818 724 724"
+}
+
+Entity 5
+{
+  "uuid": "1beefdbd-c6bb-11e6-a734-122e0737977d",
+  "type": "atm",
+  "name": "AIB ATM Lower Kilmacud Road",
+  "created": 1482241761121,
+  "modified": 1482241761121,
+  "Address": "Stillorgan Plaza, Lower Kilmacud Road, Stillorgan, Dublin 4, Dublin, Ireland",
+  "atmname": "AIB ATM Lower Kilmacud Road",
+  "location": {
+    "latitude": 53.288381,
+    "longitude": -6.199466
+  },
+  "metadata": {
+    "path": "/atms/1beefdbd-c6bb-11e6-a734-122e0737977d",
+    "size": 1023
+  },
+  "PhotoURL": "https://www.google.co.in/maps/uv?hl=en&pb=!1s0x486708e20595b113:0x117536114a43d687!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s//geo3.ggpht.com/cbk?panoid%3DQzAwIArl-BN4zxvLH0A56Q%26output%3Dthumbnail%26cb_client%3Dsearch.LOCAL_UNIVERSAL.gps%26thumb%3D2%26w%3D520%26h%3D175%26yaw%3D168.99992%26pitch%3D0%26thumbfov%3D100!5s+-+Google+Search&imagekey=!1e2!2sQzAwIArl-BN4zxvLH0A56Q",
+  "Telephone": "+353 818 724 724"
+}
+
+Entity 6
+
+{
+  "uuid": "1c6d86d3-c6bc-11e6-a1a4-0eec2415f3df",
+  "type": "atm",
+  "name": "AIB ATM Aviva Stadium",
+  "created": 1482242191447,
+  "modified": 1482242191447,
+  "Address": "Aviva Stadium, Lansdowne Road, Dublin 4, Ireland",
+  "atmname": "AIB ATM Aviva Stadium",
+  "location": {
+    "latitude": 53.333824,
+    "longitude": -6.228991
+  },
+  "metadata": {
+    "path": "/atms/1c6d86d3-c6bc-11e6-a1a4-0eec2415f3df",
+    "size": 983
+  },
+  "PhotoURL": "https://www.google.co.in/maps/uv?hl=en&pb=!1s0x486708e20595b113:0x117536114a43d687!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s//geo3.ggpht.com/cbk?panoid%3DQzAwIArl-BN4zxvLH0A56Q%26output%3Dthumbnail%26cb_client%3Dsearch.LOCAL_UNIVERSAL.gps%26thumb%3D2%26w%3D520%26h%3D175%26yaw%3D168.99992%26pitch%3D0%26thumbfov%3D100!5s+-+Google+Search&imagekey=!1e2!2sQzAwIArl-BN4zxvLH0A56Q",
+  "Telephone": "+353 818 724 724"
+}
